@@ -1,1 +1,18 @@
 Primer Guardado 
+
+mkdir : carpeta
+touch :archivo
+txt: texto
+js: java
+html: web
+css: web soport
+git config --global user.name
+git config --global user.email
+git status
+git add "name"
+git add . :guarda todo
+git remote add "origin" +link
+git clone: del git hub a mi pc
+git log
+git checkoot
+git push -u origin
